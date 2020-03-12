@@ -47,6 +47,6 @@
         "gpu_ids": [0],
         "isTrain": true,
         "checkpoints_dir": "./checkpoints",
-        "experiment_name": "ifind1_sononet_8_andi"
+        "experiment_name": "ifind1_sononet_8_6classes"
     }
 }
