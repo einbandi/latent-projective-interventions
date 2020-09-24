@@ -1,9 +1,11 @@
-Projective Latent Space Decluttering
+Projective Latent Interventions
 ==============================
 
-Projective Latent Space Decluttering is a technique to introduce
-constraints on the learning of neural network classifiers by
+Projective Latent Interventions are a technique to inform
+the learning of neural network classifiers by
 manually manipulating embedded latent spaces.
+
+Paper preprint available on [arXiv](https://arxiv.org/abs/2006.12902).
 
 This repository contains application examples for the following datasets:
 
