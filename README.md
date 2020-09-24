@@ -7,6 +7,8 @@ manually manipulating embedded latent spaces.
 
 Paper preprint available on [arXiv](https://arxiv.org/abs/2006.12902).
 
+Requires [this PyTorch implementation](https://github.com/einbandi/ptsne-pytorch) of parametric t-SNE.
+
 This repository contains application examples for the following datasets:
 
 - MNIST
